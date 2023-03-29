@@ -1,9 +1,10 @@
 # datamethods
-A simple repository on Data Visualization methods and techniques to analyze data. Mostly serves as a compilation.
+Datamethods is a simple repository that compiles several Data Analysis, Visualization, and Mining methods and techniques to analyze and discover patterns in different sets of data.
 
 # Overview
-* Projects contains data visualization libraries such as Matplotlib and Pyplot, as well as several plots including Bar Chart, Scatter Plots, Histograms.
-* Several projects also have Machine Learning models implemented through scikit-learn library.
+* Notebooks makes use of libraries such as Matplotlib, Plotly, Networkx for Data Presentation or Visualization.
+* Several plots include Bar Chart, Scatter Plots, Histograms, and others specified in the notebooks.
+* Machine Learning models were also implemented through scikit-learn library.
 
 # Requirements
 * Python 3
