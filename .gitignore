@@ -1,0 +1,4 @@
+notebooks/scripts/__pycache__/
+notebooks/outputs/*.dot
+notebooks/outputs/*.png
+notebooks/outputs/*.txt
