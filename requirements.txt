@@ -7,3 +7,6 @@ scikit-learn
 networkx
 nltk
 wordcloud
+pydot
+Pillow
+mlxtend
